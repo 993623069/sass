@@ -13,6 +13,8 @@ module Sass
       units-level-3
       at-error
       custom-property
+      at-warm
+
     )]
 
     # Check if a feature exists by name. This is used to implement
